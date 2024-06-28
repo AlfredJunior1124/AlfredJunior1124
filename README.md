@@ -8,7 +8,7 @@ Passionate about crafting efficient and scalable solutions to complex problems, 
 
 - Programming Languages: C#, Python, C++, Javascript, Typescript
 - Tools & DevOps: Git, Docker, Unity, Unreal Engine, Steamwork
-- Frameworks & Libraries: Django, Flask, React, Vue.js
+- Frameworks & Libraries: Three.js, RTF, Django, Flask, React, Vue.js
 - Databases: PostgreSQL, MySQL, MongoDB
 - Testing & Deployment: Pytest, Selenium, CI/CD
 
